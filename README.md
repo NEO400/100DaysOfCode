@@ -12,7 +12,7 @@ My answers to the assignments from [ Dr. Angela Yu's Python course](https://www.
 - [Solution: Treasure Island](https://github.com/NEO400/100DaysOfCode/tree/main/Day3)
 
 ### Day 4 - Randomisation and Python Lists
-- [Solution: Rock Paper Scissors]()
+- [Solution: Rock Paper Scissors](https://github.com/NEO400/100DaysOfCode/tree/main/Day4)
 
 ## License
 Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
