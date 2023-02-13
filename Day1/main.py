@@ -1,3 +1,7 @@
+# Band Name Generator
+
+print("Welcome to the Band Name Generator.")
+
 #1. Create a greeting for your program.
 name = input("Hello, what's your name? ")
 print("Hello " + name + ", Welcome to the Band Name generator"+ "!")
