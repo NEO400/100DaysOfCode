@@ -13,3 +13,6 @@ My answers to the assignments from [ Dr. Angela Yu's Python course](https://www.
 
 ### Day 4 - Randomisation and Python Lists
 - [Solution: Rock Paper Scissors]
+
+## License
+Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
