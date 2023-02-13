@@ -9,7 +9,7 @@ My answers to the assignments from [ Dr. Angela Yu's Python course](https://www.
 - [Solution: Tip Calculator](https://github.com/NEO400/100DaysOfCode/tree/main/Day2)
 
 ### Day 3 - Control Flow and Logical Operators
-- [Solution: Treasure Island]()
+- [Solution: Treasure Island](https://github.com/NEO400/100DaysOfCode/tree/main/Day3)
 
 ### Day 4 - Randomisation and Python Lists
 - [Solution: Rock Paper Scissors]()
