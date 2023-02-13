@@ -3,7 +3,7 @@
 My answers to the assignments from [ Dr. Angela Yu's Python course](https://www.udemy.com/course/100-days-of-code/).
 
 ### Day 1 - Working with Variables in Python to Manage Data
-- [Solution: Band Name Generator]
+- [Solution: Band Name Generator](https://github.com/NEO400/100DaysOfCode/tree/main/Day1)
 
 ### Day 2 - Understanding Data Types and How to Manipulate Strings
 - [Solution: Tip Calculator]
