@@ -1,0 +1,37 @@
+# Reeborg's World: Hurdle 1
+
+# Copy-paste this to https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
+
+# Define a function to turn the robot 90 degrees to the right
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+# Define a function to make the robot "jump" over an obstacle
+def jump():
+    move()          # Move the robot forward one square
+    turn_left()     # Turn the robot 90 degrees to the left
+    move()          # Move the robot forward one square
+    turn_right()    # Turn the robot 90 degrees to the right
+    move()          # Move the robot forward one square
+    turn_right()    # Turn the robot 90 degrees to the right again
+    move()          # Move the robot forward one square
+    turn_left()     # Turn the robot 90 degrees to the left again
+    
+number_of_hurdles = 6   # Sets the initial value of the variable "number_of_hurdles" to 6
+while number_of_hurdles > 0:   # Executes the indented block of code as long as the value of "number_of_hurdles" is greater than 0
+    jump()   # Calls the function "jump()" to make the runner jump over a hurdle
+    number_of_hurdles -= 1   # Decrements the value of "number_of_hurdles" by 1 after each jump
+    print(number_of_hurdles)   # Prints the updated value of "number_of_hurdles" after each jump
+
+    
+
+    
+
+
+
+
+
+
+
