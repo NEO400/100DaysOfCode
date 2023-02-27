@@ -1,0 +1,29 @@
+# Reeborg's World: Maze
+
+# Copy-paste this to https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+
+# define a function to turn the robot right
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+# move forward while there are no obstacles in front
+while front_is_clear():
+    move()
+
+# turn left when an obstacle is encountered
+turn_left()
+
+# continue moving until the robot reaches its goal
+while not at_goal():
+    # if there is space to the right, turn right and move forward
+    if right_is_clear():
+        turn_right()
+        move()
+    # if there is space in front, move forward
+    elif front_is_clear():
+        move()
+    # if there are no spaces to the right or front, turn left
+    else:
+        turn_left()
