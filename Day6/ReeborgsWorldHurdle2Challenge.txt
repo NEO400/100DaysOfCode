@@ -1,0 +1,23 @@
+# Reeborg's World: Hurdle 2
+
+# Copy-paste this to https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json
+
+# Define a function to turn the robot 90 degrees to the right
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+# Define a function to make the robot "jump" over an obstacle
+def jump():
+    move()          # Move the robot forward one square
+    turn_left()     # Turn the robot 90 degrees to the left
+    move()          # Move the robot forward one square
+    turn_right()    # Turn the robot 90 degrees to the right
+    move()          # Move the robot forward one square
+    turn_right()    # Turn the robot 90 degrees to the right again
+    move()          # Move the robot forward one square
+    turn_left()     # Turn the robot 90 degrees to the left again
+
+while not at_goal():
+    jump()
