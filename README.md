@@ -21,5 +21,7 @@ My answers to the assignments from [ Dr. Angela Yu's Python course](https://www.
 - [Solution: Reeborg's World: Hurdle 3](https://github.com/NEO400/100DaysOfCode/blob/main/Day6/ReeborgsWorldHurdle3Challenge.txt)
 - [Solution: Reeborg's World: Maze](https://github.com/NEO400/100DaysOfCode/blob/main/Day6/ReeborgsWorldMaze.txt)
 
+### Day 7 - Hangman
+
 ## License
 Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
