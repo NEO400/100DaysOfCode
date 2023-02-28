@@ -1,5 +1,3 @@
-# 100 Days of Code - The Complete Python Pro Bootcamp for 2023
-
 My answers to the assignments from [ Dr. Angela Yu's Python course](https://www.udemy.com/course/100-days-of-code/).
 
 ### Day 1 - Working with Variables in Python to Manage Data
