@@ -24,5 +24,8 @@ My answers to the assignments from [ Dr. Angela Yu's Python course](https://www.
 ### Day 7 - Hangman
 - [Solution: Hangman](https://github.com/NEO400/100DaysOfCode/tree/main/Day7)
 
+### Day 8 - Function Parameters & Caesar Cipher
+- [Solution: Hangman](https://github.com/NEO400/100DaysOfCode/tree/main/Day8)
+
 ## License
 Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
