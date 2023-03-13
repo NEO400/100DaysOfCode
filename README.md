@@ -27,5 +27,8 @@ My answers to the assignments from [ Dr. Angela Yu's Python course](https://www.
 ### Day 8 - Function Parameters & Caesar Cipher
 - [Solution: Caesar Cipher](https://github.com/NEO400/100DaysOfCode/tree/main/Day8)
 
+### Day 9 - Dictionaries, Nesting and the Secret Auction 
+- [Solution: Secret Auction](https://github.com/NEO400/100DaysOfCode/tree/main/Day9)
+
 ## License
 Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
